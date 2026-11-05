@@ -1,5 +1,6 @@
 streamlit
-paddleocr
-paddlepaddle
+paddleocr==3.7.0
+paddlepaddle==3.2.0
+paddlex==3.7.2
 pillow
 numpy
